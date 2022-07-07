@@ -1,0 +1,67 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: blue;
+}
+
+h2 {
+    text-align: center;
+
+}
+
+.first-section {
+    text-align: center;
+    background-image: url(images/donation14.webp);
+    height: 400px;
+
+}
+
+.second-section {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.amount-div {
+    margin-left: 30px;
+}
+
+.flexible-container {
+    display: flex;
+    justify-content: center;
+
+}
+
+input {
+    margin-bottom: 20px;
+}
+
+#left-div {
+    float: left;
+    background: Red;
+    width: 30%;
+    height: 280px;
+    margin-left: 3%;
+}
+
+#middle-div {
+    float: left;
+    background: Green;
+    width: 30%;
+    height: 280px;
+    margin: 2%;
+}
+
+#right-div {
+    float: right;
+    background: blue;
+    width: 30%;
+    height: 280px;
+    margin-right: 3%;
+}
+
+h1 {
+    color: green;
+    text-align: center;
